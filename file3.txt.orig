@@ -1,7 +1,4 @@
-Parte do Master
-||
-\/
-
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
     <head>
@@ -15,13 +12,24 @@ Parte do Master
         
     </body>
 </html> 
-
-
-
-
-Parte do Nova feature 
-||
-\/
+=======
 Vamos ignorar pessoas pq pessoas nao sao top :D
+
+>>>>>>> NovaFeature
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Este é o exemplo de um ficheiro de texto file3
