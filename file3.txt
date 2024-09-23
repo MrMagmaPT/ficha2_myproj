@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
     <head>
@@ -11,7 +12,10 @@
         
     </body>
 </html> 
+=======
+Vamos ignorar pessoas pq pessoas nao sao top :D
 
+>>>>>>> NovaFeature
 
 
 
